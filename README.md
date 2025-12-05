@@ -8,8 +8,8 @@ Ce projet est une librairie de pricing en C++17 pour options actions et produits
 
 La documentation utilisateur se trouve dans le dossier [`docs/`](docs/) :
 
+- [Documentation PDF](Documentation_librairie-de-pricing.pdf)
 - [Vue d’ensemble](docs/index.md)
 - [Produits actions](docs/equity.md)
 - [Produits de taux](docs/rates.md)
 
-Pour une documentation plus détaillée (version PDF), voir le fichier `README.tex`.
