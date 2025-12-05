@@ -47,13 +47,14 @@ Depuis le dossier où se trouve l’exécutable (par ex. build/Debug) :
 
 ./pricing_example all           
 
-## Structure de la documentation
+## Documentation détaillée
 
-- equity.md : produits actions (european, digital, asian, barrier) ;
-- rates.md : produits de taux (caplet, cap, swap, swaption) ;
+- [Produits actions (equity)](equity.md)
+- [Produits de taux (rates)](rates.md)
 
 Chaque page décrit :
 - le produit financier (payoff, intuition économique) ;
 - le modèle de valorisation utilisé ;
 - la commande exacte pour lancer l’exemple correspondant ;
 - un bref rappel du moteur de pricing utilisé.
+
