@@ -1,0 +1,22 @@
+# Dossiers de build
+/build/
+/Debug/
+/Release/
+/x64/
+/out/
+
+# Fichiers temporaires
+*.obj
+*.pch
+*.pdb
+*.log
+
+# VS / VSCode
+.vscode/
+.vs/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
